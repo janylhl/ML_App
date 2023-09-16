@@ -38,3 +38,12 @@ Please be aware that this is an ongoing, unfinished project that began on Septem
 
 # SGBD <a name="SGBD"></a>
 # REST API & Application <a name="API"></a>
+
+# TODO <a name="TODO"></a>
+- Data Science : EDA
+- Data Science : Modelisation
+- Data Science : Inference function for the API
+- API : First version of the REST API with the iunference function
+- Backend : First page of the app
+- Frontend : Pages templates
+- Deployment : Docker Files
