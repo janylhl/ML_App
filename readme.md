@@ -39,6 +39,9 @@ Please be aware that this is an ongoing, unfinished project that began on Septem
 # SGBD <a name="SGBD"></a>
 # REST API & Application <a name="API"></a>
 
+# DONE <a name="TODO"></a>
+- 16/09/2023 : Setuo
+- 17/09/2023 : EDA (Data Cleaning et viz)
 # TODO <a name="TODO"></a>
 - Data Science : EDA (Stats and Outliers)
 - Data Science : Modelisation
