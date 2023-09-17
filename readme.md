@@ -43,7 +43,7 @@ Please be aware that this is an ongoing, unfinished project that began on Septem
 - Data Science : EDA
 - Data Science : Modelisation
 - Data Science : Inference function for the API
-- API : First version of the REST API with the iunference function
+- API : First version of the REST API with the inference function
 - Backend : First page of the app
 - Frontend : Pages templates
 - Deployment : Docker Files
