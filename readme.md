@@ -40,7 +40,7 @@ Please be aware that this is an ongoing, unfinished project that began on Septem
 # REST API & Application <a name="API"></a>
 
 # TODO <a name="TODO"></a>
-- Data Science : EDA
+- Data Science : EDA (Stats and Outliers)
 - Data Science : Modelisation
 - Data Science : Inference function for the API
 - API : First version of the REST API with the inference function
